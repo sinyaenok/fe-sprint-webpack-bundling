@@ -1,0 +1,30 @@
+
+* {
+  box-sizing: border-box;
+  border : 0;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: aqua;
+}
+
+h1 {
+  color:aliceblue;
+}
+div.shout {
+  padding: 12px;
+  margin: 4px;
+  border-radius: 8px;
+  border: 0.5px solid gray;
+  background-color: beige;
+}
+
+body {
+  background-color: aquamarine;
+}
